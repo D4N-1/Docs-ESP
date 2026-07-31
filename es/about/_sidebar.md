@@ -1,7 +1,7 @@
-- [**About**](/en/)
-  - [Home](/en/about/home)
-  - [Localizations](/en/about/localization.md)
+- [**Acerca de**](/es/)
+  - [Inicio](/es/about/home)
+  - [Localizacion](/es/about/localization.md)
 
-- [Documentations](/en/dlce/contents.md)
-- [Legal](/en/legal/eula.md)
+- [Documentacion](/es/dlce/contents.md)
+- [Legal](/es/legal/eula.md)
 - [Sponsor](https://github.com/sponsors/Aaron8052)

@@ -1,7 +1,8 @@
-- [Home](/en/about/home)
-- [Docs](/en/dlce/contents.md)
+- [Inicio](/es/about/home)
+- [Docs](/es/dlce/contents.md)
 - More
-  - [Legal](/en/legal/eula.md)
+  - [Legal](/es/legal/eula.md)
   - [Sponsor](https://github.com/sponsors/Aaron8052)
-- ![en](https://img.shields.io/badge/lang-English-blue.svg)
+- ![es](https://img.shields.io/badge/lang-Espa%C3%B1ol-orange.svg)
   - <a href="#/about/home" target="_blank">![zh-cn](https://img.shields.io/badge/语言-简体中文-red.svg)</a>
+  - <a href="#/about/home" target="_blank">![en](https://img.shields.io/badge/lang-English-blue.svg)</a>

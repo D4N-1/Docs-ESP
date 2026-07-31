@@ -5,3 +5,4 @@
   - [Sponsor](https://github.com/sponsors/Aaron8052)
 - ![en](https://img.shields.io/badge/lang-English-blue.svg)
   - <a href="#/about/home" target="_blank">![zh-cn](https://img.shields.io/badge/语言-简体中文-red.svg)</a>
+  - <a href="#/about/home" target="_blank">![es](https://img.shields.io/badge/lang-Espa%C3%B1ol-orange.svg)</a>

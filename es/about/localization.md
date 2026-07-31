@@ -1,7 +1,7 @@
-# Localizations
-## Contribute
-### [> Contribute translations here <](https://github.com/DL-Community/DLCE-Translations)
-- A GitHub account is mandatory for translation.
-- [Contact us](/en/dlce/about.md) for editing permissions or adding a language.
+# Localizaciones
+## Contribuir
+### [> Contribuir con traduciones aqui <](https://github.com/DL-Community/DLCE-Translations)
+- Una cuenta de GitHub es requerida para el aporte.
+- [Contactanos](/es/dlce/about.md) para editar permisos o añadir un idioma.
 
-[Contributors](https://raw.githubusercontent.com/DL-Community/DLCE-Translations/refs/heads/main/Contributors.md ':include')
+[Contribuidores](https://raw.githubusercontent.com/DL-Community/DLCE-Translations/refs/heads/main/Contributors.md ':include')

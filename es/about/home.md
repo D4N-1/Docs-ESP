@@ -1,11 +1,11 @@
 # Dancing Line Community Edition
 
-Welcome to the DLCE Database, where the latest content of this game will be periodically updated.
+Bienvenido a la base de datos de DLCE, donde el contenido mas reciente del juego será periodicamente actualizado.
 
-?> The English translations are still WIP, some content may only available in Chinese.
-You are welcomed to join the work by clicking "Edit Wiki" at the bottom of the page.
+?> La traduccion al Español aun sigue en desarrollo, algun contenido solo estará disponible en Chino.
+Eres bienvenido a aportar con tu trabajo presionando "Editar Wiki" al final de la página.
 
-## Downloads :id=downloads
+## Descargas :id=downloads
 
 <div class="icon-grid">
   <a class="icon-grid-group" href="https://github.com/DL-Community/DancingLine-CommunityEdition" target="_blank">
@@ -23,9 +23,9 @@ You are welcomed to join the work by clicking "Edit Wiki" at the bottom of the p
   </a>
 </div>
 
-<iframe frameborder="0" src="https://itch.io/embed/3021536?link_color=2c9cff" width="552" height="167"><a href="https://fengyandl.itch.io/dlce">Dancing Line Community Edition by fengyandl</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3021536?link_color=2c9cff" width="552" height="167"><a href="https://fengyandl.itch.io/dlce">Dancing Line Community Edition hecho por fengyandl</a></iframe>
 
-## Communities :id=communities
+## Comunidades :id=communities
 
 <div class="icon-grid">
   <a class="icon-grid-group" href="https://chinadlrs.com/app/?id=25" target="_blank">
@@ -64,130 +64,130 @@ You are welcomed to join the work by clicking "Edit Wiki" at the bottom of the p
   </a>
 </div>
 
-## Spec Requirements
+## Requerimientos del sistema
 
 <!-- tabs:start -->
 
 <!-- tab:Windows -->
 
-?> Requires a 64-bit processor and operating system
+?> Requiere un procesador de 64-bits y sistema operativo
 
-### Recommended
+### Recomendados
 
-- **Operating System**: Windows 10 64bit / Windows 11 64bit
-- **Processor**: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz or higher
-- **Graphics API**: Direct3D12
-- **Graphics Card (GPU)**: NVIDIA GTX 1060／AMD Radeon RX 480 or higher
-- **RAM**: 8 GB RAM or more
-- **Storage**: 5 GB available space
-- Setting the quality to "Ultra" or "Maximum" for the best experience.
-- Enabling vertical sync for monitors with refresh rate of 120 Hz or higher.
-- To use the DirectX 12 API, you must be using Windows 10 (Version 1809 or higher) and a GPU with at least 4 GB of VRAM.
+- **Sistema Operativo**: Windows 10 64bit / Windows 11 64bit
+- **Procesador**: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz o superior
+- **API de Graficos**: Direct3D12
+- **Tarjeta de Graficos (GPU)**: NVIDIA GTX 1060／AMD Radeon RX 480 o superior
+- **RAM**: 8 GB RAM o superior
+- **Almacenamiento**: 5 GB espacio libre
+- Establecer la calida en "Ultra" o "Maxima" para una mejor experiencia.
+- Habilitar la Sincronización Vertical para monitores con un ratio de actualización de 120 Hz o superior.
+- Para usar la API de DirectX 12, debes usar Windows 10 (Version 1809 o superior) y una GPU con al menos 4GB de VRAM.
 
-### Minimum
+### Minimos
 
-> The minimum configuration cannot guarantee a complete game experience.
+> La configuración minima no puede garantizar una experiencia completa de juego.
 
-- **Operating System**: Windows 7 SP1
-- **Processor**: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz
-- **Graphics API**: Direct3D11 or OpenGLCore
-- **Graphics Card (GPU)**: NVIDIA GeForce GTX 750 Ti / AMD Radeon HD 6950
+- **Sistema Operativo**: Windows 7 SP1
+- **Procesador**: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz
+- **API de Graficos**: Direct3D11 o OpenGLCore
+- **Tarjeta de Graficos (GPU)**: NVIDIA GeForce GTX 750 Ti / AMD Radeon HD 6950
 - **RAM**: 4 GB RAM
-- **Storage**: 4 GB available space
-- Setting the quality to "High" or lower to ensure FPS.
+- **Almacenamiento**: 4 GB espacio libre
+- Establecer la calidad en "Alto" o inferior para tener mayor cantidad de FPS.
 
 <!-- tab:macOS -->
 
-?> Requires a 64-bit processor and operating system.
+?> Requiere un procesador de 64-bits y Sistema Operativo.
 
-!> Intel-based Mac is not supported by this game.
+!> Intel-Basado en MAC (Intel MAC) no es soportado por el juego.
 
-### Recommended
+### Recomendados
 
-- **Operating System**: macOS 15 or newer
-- **Processor**: Apple M3 or higher
-- **Graphics API**: Metal 3 or newer
+- **Sistema Operativo**: macOS 15 o reciente
+- **Procesador**: Apple M3 o superior
+- **API de Graficos**: Metal 3 o reciente
 - **RAM**: 16 GB RAM
-- **Storage**: 5 GB available space
-- Setting the quality to "Ultra" or "Maximum" for the best experience.
+- **Almacenamiento**: 5 GB espacio libre
+- Establecer la calida en "Ultra" o "Maxima" para una mejor experiencia.
 
-### Minimum
+### Minimos
 
-> The minimum configuration cannot guarantee a complete game experience.
+> La configuración minima no puede garantizar una experiencia completa de juego.
 
-- **Operating System**: macOS 11
-- **Processor**: Apple M1
-- **Graphics API**: Metal
+- **Sistema Operativo**: macOS 11
+- **Procesador**: Apple M1
+- **API de Graficos**: Metal
 - **RAM**: 8 GB RAM
-- **Storage**: 4 GB available space
-- Setting the quality to "High" or lower to ensure FPS.
+- **Almacenamiento**: 4 GB espacio libre
+- Establecer la calidad en "Alto" o inferior para tener mayor cantidad de FPS.
 
 <!-- tab:iOS on Mac -->
 
-?> Requires a 64-bit processor and operating system.
+?> Requiere un procesador de 64-bits y Sistema Operativo.
 
-### Recommended
+### Recomendados
 
-- **Operating System**: macOS 15 or newer
-- **Processor**: Apple M3 or higher
-- **Graphics API**: Metal 3 or newer
+- **Sistema Operativo**: macOS 15 o reciente
+- **Procesador**: Apple M3 o superior
+- **API de Graficos**: Metal 3 o reciente
 - **RAM**: 8 GB RAM
-- **Storage**: 5 GB available space
-- Setting the quality to "Ultra" for the best experience.
+- **Almacenamiento**: 5 GB espacio libre
+- Establecer la calida en "Ultra" o "Maxima" para una mejor experiencia.
 
-### Minimum
+### Minimos
 
-> The minimum configuration cannot guarantee a complete game experience.
+> La configuración minima no puede garantizar una experiencia completa de juego.
 
-- **Operating System**: macOS 11 or newer
-- **Processor**: Apple M1
-- **Graphics API**: Metal
+- **Sistema Operativo**: macOS 11 o reciente
+- **Procesador**: Apple M1
+- **API de Graficos**: Metal
 - **RAM**: 4 GB RAM
-- **Storage**: 4 GB available space
-- Setting the quality to "High" or lower to ensure FPS.
+- **Almacenamiento**: 4 GB espacio libre
+- Establecer la calidad en "Alto" o inferior para tener mayor cantidad de FPS.
 
 <!-- tab:iOS -->
 
-?> Requires a 64-bit processor and operating system.
+?> Requiere un procesador de 64-bits y Sistema Operativo.
 
-### Recommended
+### Recomendados
 
-- **Operating System**: iOS 18 or newer
+- **Sistema Operativo**: iOS 18 o reciente
 - **RAM**: 8 GB RAM
-- **Storage**: 4 GB available space
-- Setting the quality to "Ultra" for the best experience.
-- Recommended to play the game with screen refresh rate 80hz or higher.
+- **Almacenamiento**: 4 GB espacio libre
+- Establecer la calida en "Ultra" o "Maxima" para una mejor experiencia.
+- Recomendado jugar con pantalla de frecuencia de actualización de 80Hz o superior.
 
-### Minimum
+### Minimos
 
-> The minimum configuration cannot guarantee a complete game experience.
+> La configuración minima no puede garantizar una experiencia completa de juego.
 
-- **Operating System**: iOS 12
+- **Sistema Operativo**: iOS 12
 - **RAM**: 2 GB RAM
-- **Storage**: 2 GB available space
-- Setting the quality to "High" or lower to ensure FPS.
+- **Almacenamiento**: 2 GB espacio libre
+- Establecer la calidad en "Alto" o inferior para tener mayor cantidad de FPS.
 
 <!-- tab:Android -->
 
-### Recommended
+### Recomendados
 
-- **Operating System**: Android 12 or newer
-- **Processor**: ARM64
-- **Graphics API**: OpenGL ES 3.0+, Vulkan
+- **Sistema Operativo**: Android 12 o reciente
+- **Procesador**: ARM64
+- **API de Graficos**: OpenGL ES 3.0+, Vulkan
 - **RAM**: 8 GB RAM
-- **Storage**: 4 GB available space
-- Setting the quality to "Ultra" for the best experience.
-- Recommended to play the game with screen refresh rate 80hz or higher.
+- **Almacenamiento**: 4 GB espacio libre
+- Establecer la calida en "Ultra" o "Maxima" para una mejor experiencia.
+- Recomendado jugar con pantalla de frecuencia de actualización de 80Hz o superior.
 
-### Minimum
+### Minimos
 
-> The minimum configuration cannot guarantee a complete game experience.
+> La configuración minima no puede garantizar una experiencia completa de juego.
 
-- **Operating System**: Android 5.1
-- **Processor**: ARMv7
-- **Graphics API**: OpenGL ES 2.0+
+- **Sistema Operativo**: Android 5.1
+- **Procesador**: ARMv7
+- **API de Graficos**: OpenGL ES 2.0+
 - **RAM**: 2 GB RAM
-- **Storage**: 2 GB available space
-- Setting the quality to "High" or lower to ensure FPS.
+- **Almacenamiento**: 2 GB espacio libre
+- Establecer la calidad en "Alto" o inferior para tener mayor cantidad de FPS.
 
 <!-- tabs:end -->
