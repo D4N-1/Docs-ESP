@@ -1,51 +1,51 @@
-# Privacy Policy
+# Política de Privacidad
 
-Thank you for choosing our game! We respect and protect the privacy of our players, and are committed to handling your personal information in a responsible and transparent manner.
+¡Gracias por jugar a nuestro videojuego! Respetamos y protegemos la privacidad de nuestros jugadores, y nos comprometemos a gestionar su información personal de manera responsable, transparente y segura.
 
-This privacy policy applies to the collection, use, and sharing of personal information in connection with our game. By playing our game, you consent to the collection and use of your personal information as described in this privacy policy. If you do not agree to this privacy policy, please do not play our game.
+La presente Política de Privacidad regula la recopilación, el tratamiento, el uso y la divulgación de los datos personales asociados al uso de nuestro videojuego. Al acceder o jugar a nuestro videojuego, Usted otorga su consentimiento expreso para la recopilación y el tratamiento de sus datos personales conforme a los términos descritos en este documento. Si no está de acuerdo con las condiciones aquí establecidas, deberá abstenerse de jugar a nuestro videojuego.
 
-## 1.Information We Collect
-We collect certain information from players when they play our game. This information includes:
+### 1. Información que Recopilamos
+Recopilamos determinada información de los usuarios durante el uso del videojuego. Dichos datos incluyen:
 
-- Device model
-- Operating system
-- Processor model
-- Device memory size
-- Battery status and level
-- Log information generated during game play
-- We also collect Game Center information (only on iOS version) and the username and UID of your GAS account (except on iOS version) after you create a GAS account.
+- Modelo del dispositivo
+- Sistema operativo
+- Modelo del procesador
+- Capacidad de memoria RAM / almacenamiento del dispositivo
+- Estado y nivel de la batería
+- Archivos de registro (logs) generados automáticamente durante las partidas
+- Información de Game Center (exclusivamente en dispositivos iOS) y el nombre de usuario junto con la identificación única (UID) de su cuenta de GAS (en plataformas distintas a iOS) tras la creación de dicha cuenta.
 
-The information we collect is used to optimize game performance, diagnose and resolve issues, and improve game compatibility with your device.
+Toda la información recopilada se destina exclusivamente a optimizar el rendimiento del videojuego, diagnosticar y solventar fallos técnicos, y garantizar la compatibilidad del software con su dispositivo.
 
-Please note that we only collect information when you choose to export and share it with us or others, or when the information is generated during game play.
+Aviso importante: La información solo se recopilará cuando Usted decida exportarla y compartirla de forma voluntaria con nosotros o con terceros, o bien cuando se genere automáticamente de forma inherente a la ejecución del videojuego.
 
-## 2. Information Use
-We use the personal information we collect for the following purposes:
+## 2. Finalidad del Tratamiento de Datos
+Utilizamos la información personal recopilada para las siguientes finalidades específicas:
 
-- To optimize game performance, diagnose and resolve issues, and improve game compatibility with your device
-- To comply with applicable laws, regulations, court orders, or government requests
-- To provide customer support and respond to your inquiries
-- To prevent fraud and unauthorized access to our game
-- To communicate with you about our game and related updates, promotions, or events
+- Optimizar el rendimiento técnico del videojuego, diagnosticar y reparar errores, y mejorar la compatibilidad del sistema con su dispositivo.
+- Dar cumplimiento a obligaciones legales, normativas vigentes, mandamientos judiciales o requerimientos de autoridades gubernamentales competentes.
+- Prestar servicio de atención al cliente y responder a sus consultas o requerimientos.
+- Prevenir el fraude, el uso indebido y los accesos no autorizados a nuestra plataforma.
+- Remitir comunicaciones relativas al videojuego, incluyendo actualizaciones, novedades, promociones o eventos vinculados.
 
-## 3. Information Sharing
-We may share your personal information with the following parties:
+## 3. Transferencia y Divulgación de la Información
+Podremos compartir su información personal únicamente con los siguientes destinatarios:
 
-- Our affiliates, service providers, and business partners, who are authorized to use the information only for the purposes described in this privacy policy
-- Law enforcement agencies, regulators, or other authorized third parties, if required by law or for legal proceedings
-- Third parties in the event of a corporate restructuring, merger, acquisition, or sale of assets, where the transfer of personal information is necessary to complete the transaction
+- Empresas filiales, proveedores de servicios y socios comerciales, quienes estarán autorizados para tratar la información única y exclusivamente para los fines estipulados en la presente Política de Privacidad.
+- Organismos de seguridad del Estado, autoridades regulatorias u otros terceros autorizados, siempre que sea exigido por ley o en el marco de un procedimiento judicial.
+- Terceras entidades en caso de reestructuración corporativa, fusión, adquisición, venta de activos o cualquier otra operación societaria donde la transferencia de datos resulte estrictamente necesaria para la materialización de la transacción.
 
-We take appropriate measures to ensure that any third party that receives your personal information only processes it for purposes consistent with this privacy policy and complies with applicable data protection laws and regulations.
+Garantizamos la adopción de las medidas técnicas y organizativas adecuadas para que cualquier tercero que acceda a sus datos personales los trate bajo estrictos criterios de confidencialidad y en pleno cumplimiento de la legislación aplicable en materia de protección de datos.
 
-## 4. Your Rights and Choices
-You have the right to access, correct, delete, restrict processing, withdraw consent, and transfer your personal information. If you wish to exercise these rights, or if you have any questions or concerns about our collection, use, or sharing of your personal information, please contact us. We will respond to your requests in a timely manner and do our best to address your questions or concerns.
+## 4. Derechos y Opciones del Usuario
+Usted ostenta el derecho de acceso, rectificación, supresión, limitación del tratamiento, revocación del consentimiento y portabilidad de sus datos personales. Para hacer efectivos estos derechos, o bien para formular cualquier consulta o reclamación sobre la recopilación y tratamiento de su información, le rogamos se ponga en contacto con nosotros. Responderemos a sus solicitudes dentro de los plazos legales establecidos.
 
-## 5. Changes to Privacy Policy
-We may update this privacy policy from time to time to reflect changes in our business needs, legal requirements, or other factors. We encourage you to review this privacy policy periodically to stay informed of any changes. If we make material changes to this privacy policy, we will provide clear notice.
+## 5. Modificaciones de la Política de Privacidad
+Nos reservamos el derecho de actualizar o modificar la presente Política de Privacidad en cualquier momento para adaptarla a novedades legislativas, jurisprudenciales o a necesidades operativas. Le recomendamos consultar este documento periódicamente. En caso de realizar modificaciones sustanciales, se lo notificaremos de manera visible y oportuna a través del propio videojuego o por los medios de contacto habituales.
 
 
---------
+---
 
-Thank you again for your support and trust! If you have any questions or concerns, please do not hesitate to contact us.
+¡Agradecemos nuevamente su confianza y apoyo! Ante cualquier duda o inquietud, no dude en ponerse en contacto con nuestro equipo.
 
-> Last Updated: Apr 20, 2023
+> Última actualización: 20 de abril de 2023

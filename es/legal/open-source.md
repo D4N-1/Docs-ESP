@@ -1,5 +1,5 @@
 # Open Source Libraries
 
-?> The game built with the following libraries.
+?> Juego contruido con las siguiente librerias Open Source.
 
 [Open Source](../../share/open-source.md ':include')

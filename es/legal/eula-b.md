@@ -1,41 +1,41 @@
-# End-User License Agreement (EULA)
+# Acuerdo de Licencia de Usuario Final (EULA)
 
-This End-User License Agreement (hereinafter referred to as the "Agreement") is a legal agreement between you (hereinafter referred to as "User" or "You") and YINSU Studio (hereinafter referred to as "Developer" or "We"). This Agreement sets forth the terms and conditions under which you may use our game (hereinafter referred to as the "Game" or "game). By using the Game, you agree to be bound by this Agreement.
+El presente Acuerdo de Licencia de Usuario Final (en adelante, el «Acuerdo») constituye un contrato legal entre usted (en adelante, el «Usuario» o «Usted») y YINSU Studio (en adelante, el «Desarrollador» o «Nosotros»). Este Acuerdo establece los términos y condiciones bajo los cuales se le autoriza el uso de nuestro videojuego (en adelante, el «Juego»). Al hacer uso del Juego, Usted acepta quedar legalmente vinculado por las disposiciones de este Acuerdo.
 
-### 1. Grant of License
-Developer grants to User a non-exclusive, non-transferable license to use the Game. This license is subject to the following conditions:
+### 1. Concesión de Licencia
+El Desarrollador otorga al Usuario una licencia no exclusiva e intransferible para el uso del Juego. Esta licencia está estrictamente sujeta a las siguientes condiciones:
 
-a) The Game is a player-made game with no commercial content. User may not use the Game for any commercial purposes, including but not limited to selling, distributing, or renting.
+a) El Juego es un desarrollo realizado por fanáticos (fan-made) y carece por completo de fines o contenido comercial. El Usuario no podrá utilizar el Juego para ningún propósito comercial, lo que incluye, entre otros, su venta, distribución, arrendamiento o monetización.
 
-b) The Game is a rewrite based on the original game owned by Cheetah Mobile. The copyright of the original game belongs to Cheetah Mobile. The copyright of the modification, editing, derivative works, and other derivative works of the Game belongs to Developer. User may not modify, copy, distribute, sell, rent, transfer, resell, or otherwise use the Game unless Developer has given prior written consent.
+b) El Juego es una reescritura derivada del juego original, cuya titularidad y derechos de autor pertenecen a Cheetah Mobile. Los derechos de autor correspondientes a las modificaciones, ediciones y obras derivadas creadas para esta versión pertenecen exclusivamente al Desarrollador. El Usuario no podrá modificar, copiar, distribuir, vender, alquilar, transferir, resembrar ni explotar de ninguna otra forma el Juego sin la autorización previa y por escrito del Desarrollador.
 
-c) User may not attempt to obtain the source code of the Game by reverse engineering, disassembling, or decompiling.
+c) Queda estrictamente prohibido al Usuario intentar obtener el código fuente del Juego mediante ingeniería inversa, desensamblado, descompilación o cualquier otro método.
 
-d) User must comply with all applicable laws and regulations related to the use of the Game.
+d) El Usuario se compromete a cumplir con toda la legislación y normativa vigente aplicable al uso del Juego.
 
-### 2. Ownership
-The Game and its related intellectual property rights belong to its Developer or its copyright owner. The Game is protected by copyright law and international copyright treaties. This license does not transfer ownership of the Game.
+### 2. Titularidad y Propiedad Intelectual
+El Juego y todos los derechos de propiedad intelectual asociados pertenecen al Desarrollador o a sus respectivos titulares de derechos de autor. El Juego está protegido por las leyes de propiedad intelectual y por los tratados internacionales en la materia. El otorgamiento de esta licencia no implica, en ningún caso, la transferencia de la propiedad del Juego al Usuario.
 
-### 3. Disclaimer of Warranty
-Developer makes no representations or warranties about the suitability, quality, safety, or functionality of the Game. The Game is provided "as is" without any express or implied warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. User assumes all risks associated with the use of the Game.
+### 3. Exención de Garantías
+El Desarrollador no otorga garantía alguna sobre la idoneidad, calidad, seguridad o funcionamiento del Juego. El Juego se proporciona «tal cual» («as is»), sin garantías explícitas ni implícitas de ningún tipo, incluidas, entre otras, las garantías de comerciabilidad, adecuación para un propósito determinado y no infracción de derechos de terceros. El Usuario asume bajo su propia responsabilidad todos los riesgos derivados del uso del Juego.
 
-### 4. Limitation of Liability
-To the extent permitted by applicable law, Developer shall not be liable for any form of damages, including but not limited to direct, indirect, incidental, special, punitive, or consequential damages. In no event shall Developer be liable for any damages, liabilities, or losses arising from the use or inability to use the Game, including but not limited to any loss of profits, business interruption, computer failure, data loss, or any other commercial damages.
+### 4. Limitación de Responsabilidad
+Hasta donde lo permita la legislación aplicable, el Desarrollador no asumirá responsabilidad alguna por daños de cualquier naturaleza, ya sean directos, indirectos, incidentales, especiales, punitivos o consecuentes. Bajo ninguna circunstancia el Desarrollador será responsable de pérdidas, perjuicios o reclamaciones derivadas del uso o de la imposibilidad de uso del Juego, lo que incluye, sin limitación, la pérdida de ganancias, interrupción de la actividad comercial, fallos informáticos, pérdida de datos o cualquier otro perjuicio comercial.
 
-### 5. Termination
-This Agreement automatically terminates if User violates any of its terms. Upon termination, User must immediately stop using the Game and permanently delete all copies of the Game from their devices.
+### 5. Rescisión del Acuerdo
+Este Acuerdo quedará rescindido de forma automática e inmediata si el Usuario incumple cualquiera de sus términos. Tras la rescisión, el Usuario deberá cesar de inmediato todo uso del Juego y eliminar de forma permanente todas las copias del mismo presentes en sus dispositivos.
 
-### 6. Miscellaneous
-If any provision of this Agreement is found to be invalid or unenforceable, that provision shall be deemed divisible and shall not affect the validity and enforceability of any other provisions of this Agreement.
+### 6. Divisibilidad
+Si cualquier disposición de este Acuerdo fuera declarada nula, inválida o inaplicable por un tribunal competente, dicha disposición se considerará independiente y no afectará la validez, legalidad ni aplicabilidad del resto de las cláusulas.
 
-### 7. Modification
-Developer reserves the right to modify this Agreement at any time. If this Agreement is changed in any way, we will post the modified Agreement in the Game or notify you in another appropriate manner. Your continued use of the Game will be deemed acceptance of the modified Agreement.
+### 7. Modificaciones
+El Desarrollador se reserva el derecho de modificar el presente Acuerdo en cualquier momento. De realizarse cambios, publicaremos el Acuerdo actualizado dentro del Juego o se lo notificaremos mediante los canales adecuados. El uso continuado del Juego tras dicha publicación constituirá la aceptación plena de las modificaciones realizadas.
 
-### 8. Entire Agreement
-This Agreement constitutes the entire agreement between Developer and User and supersedes any prior written or oral agreements, communications, or understandings between the parties concerning the Game. This Agreement may not be amended or modified except in writing signed by authorized representatives of both parties.
+### 8. Acuerdo Completo
+Este documento constituye el acuerdo único y completo entre el Desarrollador y el Usuario con respecto al Juego, y sustituye cualquier comunicación, propuesta o acuerdo previo, ya sea verbal o escrito. Este Acuerdo no podrá ser modificado salvo mediante un documento escrito firmado por los representantes debidamente autorizados de ambas partes.
 
-**If you agree to the above terms and conditions, please continue to use our game. If you do not agree to the above terms and conditions, please stop using the game immediately.**
+**Si Usted acepta los términos y condiciones aquí expuestos, puede continuar utilizando el Juego. Si no está de acuerdo con la totalidad de estos términos, debe cesar de inmediato el uso del Juego y proceder a su desinstalación.**
 
---------
+---
 
-> Last Updated: Apr 15, 2023
+> *Última actualización: 15 de abril de 2023*
