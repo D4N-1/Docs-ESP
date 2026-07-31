@@ -1,56 +1,56 @@
-# Characters
+# Personajes
 
-> **When in the level selection**<br>Click the cube icon at the bottom to change or purchase character.
+> **En la seleccion de nivel**<br>Presiona el icono del cubo en la zona inferior para cambiar o comprar el personaje.
 
-> **While in the level**<br>During the game preparation stage, you can click on the floating cube to change the character.
+> **Estando en el nivel**<br>Durante la preparación del nivel, puedes presionar en el cubo flotante para cambiar el personaje..
 
 <!-- tabs:start -->
 <!-- tab:Skins -->
 ### **Skins** :id=skins
 
-?> **Note**
-<br> Skins do not affect the character's collision size.
+?> **Notas**
+<br> Las Skins no afectan el tamaño de las colisiones del personaje.
 
 
-| Skin   | Price                      |
+| Skin   | Precio                     |
 |--------|----------------------------|
-| Normal | Free                       |
-| Headphones     | ✨ 450            |
-| Pyramid   | ✨ 450                 |
-| Ball   | ✨ 450                    |
-| Chaos     | ✨ 450                 |
-| Mountain     | ✨ 450              |
-| Paper     | ✨ 450                 |
-| Dominoes     | ✨ 450              |
-| Module     | ✨ 450                |
-| Stalagmite     | ✨ 450            |
+| Normal | Gratis                     |
+| Airculares     | ✨ 450            |
+| Piramide  | ✨ 450                 |
+| Bola   | ✨ 450                    |
+| Caos      | ✨ 450                 |
+| Montaña      | ✨ 450              |
+| Papel     | ✨ 450                 |
+| Dominos      | ✨ 450              |
+| Modulo     | ✨ 450                |
+| Estalagmita    | ✨ 450            |
 | Zeus     | ✨ 750                     |
-| Snake      | ✨ 600                      |
-| Arrow     | ✨ 600                      |
+| Serpiente      | ✨ 600                  |
+| Flecha    | ✨ 600                      |
 | Jelly     | ✨ 600                      |
-| Balloon     | ✨ 600                      |
-| Fireball  | ✨ 600                      |
-| Flying Nimbus    | ✨ 600                      |
-| Clown     | ✨ 750                      |
-| Light      | ✨ 600                      |
-| Snowball     | ✨ 600                      |
-| Magic Witch   | ✨ 750                      |
-| Whale    | ✨ 750                      |
-| Snow Fog     | ✨ 750                      |
-| Chinese Brush     | ✨ 750                      |
-| Slither    | ✨ 750                      |
-| Magic Cloak   | Obtain from the Note Store |
-| Bomb Skeleton | Obtain from the Note Store |
-| Robot | Obtain from the Note Store |
-| Star | Obtain from the Note Store |
-| Black Ball | Obtain from the Note Store |
-| Cyan Ball | Obtain from the Note Store |
-| Star Power | Obtain from the Note Store |
-| Basketball | Obtain from the Note Store |
-| Plain Ball | Obtain from the Note Store |
-| Bowling Ball | Obtain from the Note Store |
-| Tennis Ball | Obtain from the Note Store |
-| Planet | Obtain from the Note Store |
+| Globo       | ✨ 600                      |
+| Bola Ignea  | ✨ 600                      |
+| Nube Voladora      | ✨ 600                      |
+| Payaso    | ✨ 750                      |
+| Luz        | ✨ 600                      |
+| Bola de Nieve   | ✨ 600                      |
+| Bruja Magica   | ✨ 750                      |
+| Ballena    | ✨ 750                      |
+| Neblina Congelada     | ✨ 750                      |
+| Arbusto Chino     | ✨ 750                      |
+| Trineo    | ✨ 750                      |
+| Capa Magica   | Obtenido de la tienda de Notas |
+| Esqueleto Bomba | Obtenido de la tienda de Notas |
+| Robot | Obtenido de la tienda de Notas |
+| Estrella | Obtenido de la tienda de Notas |
+| Bola Negra | Obtenido de la tienda de Notas |
+| Bola Cian | Obtenido de la tienda de Notas |
+| Poder de Estrella | Obtenido de la tienda de Notas |
+| Basketball | Obtenido de la tienda de Notas |
+| Bola Plana | Obtenido de la tienda de Notas |
+| Bola de Bolos | Obtenido de la tienda de Notas |
+| Bola de Tenis | Obtenido de la tienda de Notas |
+| Planeta | Obtenido de la tienda de Notas |
 
 <!-- tab:Decorations -->
 ### **Decorations** :id=dec
@@ -61,10 +61,10 @@
 | Bamboo Dragonfly | ✨ 750                      |
 | Bowler Hat       | ✨ 750                      |
 | Mexican Hat      | ✨ 750                      |
-| Wizard Hat       | Obtain from the Note Store |
-| SweetDog Hat     | Obtain from the Note Store |
-| Sprite           | Obtain from the Note Store |
-| Rat              | Obtain from the Note Store |
+| Wizard Hat       | Obtenido de la tienda de Notas |
+| SweetDog Hat     | Obtenido de la tienda de Notas |
+| Sprite           | Obtenido de la tienda de Notas |
+| Rat              | Obtenido de la tienda de Notas |
 
 <!-- tabs:end -->
 
