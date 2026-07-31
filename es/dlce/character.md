@@ -53,25 +53,25 @@
 | Planeta | Obtenido de la tienda de Notas |
 
 <!-- tab:Decorations -->
-### **Decorations** :id=dec
+### **Decoraciones** :id=dec
 
-| Decoration       | Price                      |
+| Decoracion       | Precio                      |
 |------------------|----------------------------|
-| Christmas Hat    | ✨ 750                      |
-| Bamboo Dragonfly | ✨ 750                      |
-| Bowler Hat       | ✨ 750                      |
-| Mexican Hat      | ✨ 750                      |
-| Wizard Hat       | Obtenido de la tienda de Notas |
-| SweetDog Hat     | Obtenido de la tienda de Notas |
+| Gorro de Navidad    | ✨ 750                      |
+| Dragon de Bamboo | ✨ 750                      |
+| Sombrero Bombin       | ✨ 750                      |
+| Sombrero Mexicano      | ✨ 750                      |
+| Sombrero de Hechizero       | Obtenido de la tienda de Notas |
+| Sombrero de Perro Dulce     | Obtenido de la tienda de Notas |
 | Sprite           | Obtenido de la tienda de Notas |
-| Rat              | Obtenido de la tienda de Notas |
+| Rata              | Obtenido de la tienda de Notas |
 
 <!-- tabs:end -->
 
 <blockquote>
 
 **Related Topics**
-- [Coins > Star](/en/dlce/coins.md#star)
-- [Notes Challenge](/en/dlce/notes-challenge.md)
+- [Monedas > Estrellas](/es/dlce/coins.md#star)
+- [Reto de Notas](/es/dlce/notes-challenge.md)
 
 </blockquote>
