@@ -1,5 +1,5 @@
-- [**About**](/en/about/home)
+- [**Sobre nosotros**](/es/about/home)
 
-- [Documentations](/en/dlce/contents.md)
-- [Legal](/en/legal/eula.md)
+- [Documentacion](/es/dlce/contents.md)
+- [Legal](/es/legal/eula.md)
 - [Sponsor](https://github.com/sponsors/Aaron8052)
